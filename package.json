@@ -1,0 +1,25 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "A command line application",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hisaacs/Team-Profile-Generator.git"
+  },
+  "author": "Hamish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hisaacs/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Hisaacs/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
