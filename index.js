@@ -7,7 +7,10 @@ const Manager = require("./lib/Manager");
 const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 
-//TODO add output
+// add output path
+const PATH_DIR = path.resolve(__dirname, "dist");
+const outputPath = path.join(PATH_DIR, "index.html");
+
 
 const render = require("./lib/htmlGenerator");
 
@@ -251,8 +254,16 @@ function createTeam() {
                 addTeamMember(teamMembers);
             } else if (res.addNew === true) {
                 intern(teamMembers);
-            }
+            } else outputTeam()
+            console.log('File saved');
         });
+}
+
+function outputTeam() {
+    if (!fs.existsSync(PATH_DIR)) {
+        fs.mkdirSync(PATH_DIR);
+    }
+    fs.writeFileSync(outputPath, render(teamMembers), "utf-8");
 }
 
 createManager();
