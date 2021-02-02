@@ -8,7 +8,7 @@
 
 -
 
-![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/105566906-994f6a80-5d69-11eb-9cea-ce2559b70058.gif)
+
 
 # README-Generator
 
