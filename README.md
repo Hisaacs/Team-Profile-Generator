@@ -3,7 +3,6 @@
 ### GitHub: URL
 * https://github.com/Hisaacs/Team-Profile-Generator
 
--
 
 # Preview video
 
