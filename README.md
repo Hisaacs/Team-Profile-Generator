@@ -56,7 +56,7 @@ This program was tested using class syntax and constructor functions. I have suc
 
 * Screenshot
 
-![Team-Profile-Generator-unit-test](https://user-images.githubusercontent.com/19741669/106615226-2d5dd500-65a7-11eb-9b60-93a3c69f1836.PNG)
+![Team-Profile-Generator-unit-tests](https://user-images.githubusercontent.com/19741669/106616303-60549880-65a8-11eb-9baa-2d5846516539.PNG)
 
 
 # Questions
