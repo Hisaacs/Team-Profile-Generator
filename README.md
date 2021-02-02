@@ -58,7 +58,7 @@ This project is license under the MIT License.
 
 This program was tested using class syntax and constructor functions. I have successfully tested each employee type ensuring all employees results have successfully passed.
 
-* Screenshot
+* Unit Test Results
 
 ![Team-Profile-Generator-unit-tests](https://user-images.githubusercontent.com/19741669/106616303-60549880-65a8-11eb-9baa-2d5846516539.PNG)
 
