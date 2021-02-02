@@ -57,3 +57,9 @@ This program was tested using class syntax and constructor functions. I have suc
 # Questions
 
 If you have any questions about the repo, please contact hisaacs directly hisaacs@gmail.com.
+
+# Acknowledgements
+
+* Trilogy Education & UWA Coding Bootcamp - for making this bootcamp possible.
+* NPM Inquirer - for providing the open source package to generate command-line questions.  
+* Instructors Luca, Sam and Renata - for spending time in teaching and sharing their knowledge.
