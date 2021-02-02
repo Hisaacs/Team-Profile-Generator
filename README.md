@@ -6,7 +6,7 @@
 
 ![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/106622952-158a4f00-65af-11eb-8ce6-c33dde54df99.gif)
 
-# My Team
+                                                      ### Screenshot
 
  ![Team-Profile-Generator](https://user-images.githubusercontent.com/19741669/106623895-09eb5800-65b0-11eb-83a8-86bd2c9eef5f.PNG)
 
