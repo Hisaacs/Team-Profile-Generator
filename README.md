@@ -2,7 +2,7 @@
 * https://github.com/Hisaacs/Team-Profile-Generator
 
 
-# Preview video
+# Preview 
 
 ![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/106622952-158a4f00-65af-11eb-8ce6-c33dde54df99.gif)
 
