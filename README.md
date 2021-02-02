@@ -54,6 +54,11 @@ This project is license under the MIT License.
 
 This program was tested using class syntax and constructor functions. I have successfully tested each employee type ensuring all employees result have successfully passed.
 
+* Screenshot
+
+![Team-Profile-Generator-unit-test](https://user-images.githubusercontent.com/19741669/106615226-2d5dd500-65a7-11eb-9b60-93a3c69f1836.PNG)
+
+
 # Questions
 
 If you have any questions about the repo, please contact hisaacs directly hisaacs@gmail.com.
