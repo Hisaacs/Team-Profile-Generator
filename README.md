@@ -52,7 +52,7 @@ This project is license under the MIT License.
 
 # Tests
 
-This program was tested using class syntax and constructor functions. I have successfully tested each employee type ensuring all employees result have successfully passed.
+This program was tested using class syntax and constructor functions. I have successfully tested each employee type ensuring all employees results have successfully passed.
 
 * Screenshot
 
