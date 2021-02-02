@@ -8,7 +8,8 @@
 
 # My Team
 
- ![Team-Profile-Generator](https://user-images.githubusercontent.com/19741669/106623012-25099800-65af-11eb-917e-4d3a7e606d87.PNG)
+ ![Team-Profile-Generator](https://user-images.githubusercontent.com/19741669/106623895-09eb5800-65b0-11eb-83a8-86bd2c9eef5f.PNG)
+
 
 # Team-Profile-Generator
 
