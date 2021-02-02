@@ -6,11 +6,12 @@
 
 # Preview video
 
-- ![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/106622952-158a4f00-65af-11eb-8ce6-c33dde54df99.gif)
+![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/106622952-158a4f00-65af-11eb-8ce6-c33dde54df99.gif)
 
 # My Team
 
  ![Team-Profile-Generator](https://user-images.githubusercontent.com/19741669/106623012-25099800-65af-11eb-917e-4d3a7e606d87.PNG)
+
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hisaacs/README-Generator)
 
