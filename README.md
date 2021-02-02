@@ -1,6 +1,7 @@
 # Team-Profile-Generator
 
-# Link to video
+### GitHub: URL
+* https://github.com/Hisaacs/Team-Profile-Generator
 
 -
 
