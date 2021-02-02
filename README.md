@@ -1,5 +1,3 @@
-# Team-Profile-Generator
-
 ### GitHub: URL
 * https://github.com/Hisaacs/Team-Profile-Generator
 
@@ -12,6 +10,7 @@
 
  ![Team-Profile-Generator](https://user-images.githubusercontent.com/19741669/106623012-25099800-65af-11eb-917e-4d3a7e606d87.PNG)
 
+# Team-Profile-Generator
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hisaacs/README-Generator)
 
