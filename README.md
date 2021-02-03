@@ -1,16 +1,20 @@
+### GitHub: URL
+* https://github.com/Hisaacs/Team-Profile-Generator
+
+
+# Preview 
+
+![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/106622952-158a4f00-65af-11eb-8ce6-c33dde54df99.gif)
+
+ ### Screenshot
+
+ ![Team-Profile-Generator](https://user-images.githubusercontent.com/19741669/106623895-09eb5800-65b0-11eb-83a8-86bd2c9eef5f.PNG)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Team-Profile-Generator
-
-# Link to video
-
--
-
-# Preview video
-
--
-
-![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/105566906-994f6a80-5d69-11eb-9cea-ce2559b70058.gif)
-
-# README-Generator
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/hisaacs/README-Generator)
 
@@ -48,12 +52,23 @@ This project is license under the MIT License.
 
 # Contributing
 
-​I contributed to this project by following workflow guidelines. First you'll need to Fork the GitHub repository to your local machine. Secondly, open gitbash or terminal then clone the project to you local machine. Commit any changes you've made and then push to your GitHub repository.
+​I've contributed to this project by following workflow guidelines. First you'll need to Fork the GitHub repository to your local machine. Secondly, open gitbash or terminal then clone the project to you local machine. Commit any changes you've made and then push to your GitHub repository.
 
 # Tests
 
-This program was tested using class syntax and constructor functions. I have successfully tested each employee type ensuring all employees result have successful;y passed.
+This program was tested using class syntax and constructor functions. I have successfully tested each employee type ensuring all employees results have successfully passed.
+
+* Unit Test Results
+
+![Team-Profile-Generator-unit-tests](https://user-images.githubusercontent.com/19741669/106616303-60549880-65a8-11eb-9baa-2d5846516539.PNG)
+
 
 # Questions
 
-If you have any questions about the repo, please contact hisaacs directly hisaacs@gmail.com.
+If you have any questions about the repo, please contact hisaacs directly hamisaacs@gmail.com.
+
+# Acknowledgements
+
+* Trilogy Education & UWA Coding Bootcamp - for making this bootcamp possible.
+* NPM Inquirer - for providing the open source package to generate command-line questions.  
+* Instructors Luca, Sam and Renata - for spending time in teaching and sharing their knowledge.
