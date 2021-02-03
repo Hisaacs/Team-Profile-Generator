@@ -52,7 +52,7 @@ This project is license under the MIT License.
 
 # Contributing
 
-​I contributed to this project by following workflow guidelines. First you'll need to Fork the GitHub repository to your local machine. Secondly, open gitbash or terminal then clone the project to you local machine. Commit any changes you've made and then push to your GitHub repository.
+​I've contributed to this project by following workflow guidelines. First you'll need to Fork the GitHub repository to your local machine. Secondly, open gitbash or terminal then clone the project to you local machine. Commit any changes you've made and then push to your GitHub repository.
 
 # Tests
 
@@ -65,7 +65,7 @@ This program was tested using class syntax and constructor functions. I have suc
 
 # Questions
 
-If you have any questions about the repo, please contact hisaacs directly hisaacs@gmail.com.
+If you have any questions about the repo, please contact hisaacs directly hamisaacs@gmail.com.
 
 # Acknowledgements
 
