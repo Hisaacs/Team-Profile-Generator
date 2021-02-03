@@ -4,7 +4,7 @@
 
 # Preview 
 
-![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/106622952-158a4f00-65af-11eb-8ce6-c33dde54df99.gif)
+![Readme-2-Generator](https://user-images.githubusercontent.com/19741669/106724653-6e0b2c00-6643-11eb-85ce-5d802f87a664.gif)
 
  ### Screenshot
 
